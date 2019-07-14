@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\scivis\marchingcubezikun\marchingcubezikun\main.cpp(244): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\scivis\marchingcubezikun\marchingcubezikun\main.cpp(260): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\scivis\marchingcubezikun\marchingcubezikun\main.cpp(261): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\scivis\marchingcubezikun\marchingcubezikun\main.cpp(262): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  MarchingCubeZikun.vcxproj -> F:\scivis\MarchingCubeZikun\Debug\MarchingCubeZikun.exe

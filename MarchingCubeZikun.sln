@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarchingCubeZikun", "MarchingCubeZikun\MarchingCubeZikun.vcxproj", "{09C835ED-6E0B-4989-A4F2-3725BE86E614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C835ED-6E0B-4989-A4F2-3725BE86E614}.Debug|x64.ActiveCfg = Debug|x64
+		{09C835ED-6E0B-4989-A4F2-3725BE86E614}.Debug|x64.Build.0 = Debug|x64
+		{09C835ED-6E0B-4989-A4F2-3725BE86E614}.Debug|x86.ActiveCfg = Debug|Win32
+		{09C835ED-6E0B-4989-A4F2-3725BE86E614}.Debug|x86.Build.0 = Debug|Win32
+		{09C835ED-6E0B-4989-A4F2-3725BE86E614}.Release|x64.ActiveCfg = Release|x64
+		{09C835ED-6E0B-4989-A4F2-3725BE86E614}.Release|x64.Build.0 = Release|x64
+		{09C835ED-6E0B-4989-A4F2-3725BE86E614}.Release|x86.ActiveCfg = Release|Win32
+		{09C835ED-6E0B-4989-A4F2-3725BE86E614}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4E45144-5C8C-4373-80B8-1519A4E634FE}
+	EndGlobalSection
+EndGlobal
